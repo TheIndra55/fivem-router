@@ -1,0 +1,7 @@
+{
+  "name": "json example",
+  "version": "1.0.0"
+  "dependencies": {
+    "fivem-router": "^1.0.0"
+  }
+}

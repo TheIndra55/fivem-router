@@ -13,6 +13,8 @@ A simple FiveM router using SetHttpHandler native and url-pattern lib
 ```js
 const Router = require("fivem-router")
 
+var router = new Router()
+
 router.get("/", function(request, response){
     response.send("Hello World!");
 });
