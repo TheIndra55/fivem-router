@@ -1,0 +1,19 @@
+{
+  "name": "fivem-router",
+  "version": "1.0.0",
+  "description": "A simple FiveM router using SetHttpHandler native and url-pattern lib",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheIndra55/fivem-router.git"
+  },
+  "author": "TheIndra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheIndra55/fivem-router/issues"
+  },
+  "homepage": "https://github.com/TheIndra55/fivem-router#readme",
+  "dependencies": {
+    "url-pattern": "^1.0.3"
+  }
+}
